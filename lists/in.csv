@@ -1,6 +1,6 @@
 url,category_code,category_description,date_added,source,notes
 http://ethiomuslimsmedia.com/index.php/news-paper/132-burma/,COMM,E-commerce,2014-04-15,citizenlab,content changed but domain still blocked - monitor
-http://apniisp.com/,FILE,File-sharing,2014-04-15,citizenlab,"Music sharing website. Updated recently, seems active. No redirect to HTTPS either."
+http://apniisp.com/,ECON,Economics,2014-04-15,citizenlab,"Music sharing website. Updated recently, seems active. No redirect to HTTPS either."
 http://bollyextreme.com/,FILE,File-sharing,2014-04-15,citizenlab,"Possibly old file sharing website, does not seem to be active in the last 2-3 years. Blocked on some ISPs - monitor"
 http://cckerala.com/,FILE,File-sharing,2014-04-15,citizenlab,"Old Kerala news website, not updated since 2012. Still blocked - monitor"
 http://downloadming.com/,FILE,File-sharing,2014-04-15,citizenlab,"Bollywood music sharing, appears blocked - monitor"

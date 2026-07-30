@@ -64,7 +64,6 @@ https://docs.google.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI
 https://download.cnet.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2022-09-17
 https://drugs-forum.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://duckduckgo.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://ebuddy.com/,GRP,Social Networking,2014-04-15,citizenlab,"Updated on 2022-02-21, website under construction"
 https://www.emailaddresses.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated on 2022-02-21
 https://emchurch.org/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-02-21
 https://epic.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -933,7 +932,7 @@ https://www.lovoo.com/,DATE,Online Dating,2018-09-18,DefendDefenders,
 http://www.getdrupe.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
 http://imo.im/,COMT,Communication Tools,2018-09-18,DefendDefenders,
 http://www.magicjack.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
-https://badoo.com/,GRP,Social Networking,2018-09-18,DefendDefenders,
+https://badoo.com/,DATE,Online Dating,2018-09-18,DefendDefenders,Re-categorized by OONI in July 2026
 https://www.ipair.com/,DATE,Online Dating,2018-09-18,DefendDefenders,
 https://www.urduvoa.com/,NEWS,News Media,2018-12-05,OONI,
 https://www.out.com/,LGBT,LGBT,2019-01-14,citizenlab,LGBT magazine
@@ -1266,6 +1265,7 @@ https://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking
 http://www.mnr.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 https://www.clubhouse.com/,GRP,Social Networking,2021-07-06,rayasharbain,Alternative URL for Clubhouse app's homepage
 https://www.spiegel.de/,NEWS,News Media,2021-11-20,,large German news website
+https://ntc.party/,GRP,Social Networking,2021-09-21,Chelchela,
 https://hackerspaces.org/,CULTR,Culture,2021-11-20,,informal volunteer network of hackspaces maintaining community services and providing information about hackspaces all over the world
 https://posteo.de/,COMT,Communication Tools,2021-11-20,,"independent email service oncerned with sustainability, security, privacy and usability"
 https://fridaysforfuture.org/,ENV,Environment,2021-11-20,,youth-led and -organised global climate strike movement
@@ -1275,7 +1275,6 @@ https://external.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonym
 https://fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
 https://scontent.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
 https://staticxx.facebook.com/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
-https://ntc.party/,GRP,Social Networking,2021-09-21,Chelchela,
 https://slack.com/,COMT,Communication Tools,2021-09-21,Chelchela,
 https://app.slack.com/robots.txt,COMT,Communication Tools,2021-09-21,Chelchela,
 https://a.slack-edge.com/f70ec/img/test_cdn_pixel.gif,COMT,Communication Tools,2021-09-21,Chelchela,
@@ -1334,8 +1333,6 @@ https://i.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread a
 https://ria.ru/,NEWS,News Media,2022-06-07,OONI,RIA Novosti reportedly blocked in Azerbaijan and also blocked in EU countries
 https://www.business-humanrights.org/,HUMR,Human Rights Issues,2022-05-25,citizenlab,
 https://www.gofundme.com/,ECON,Economics,2022-06-11,OONI,Reportedly blocked in Algeria but worth testing globally
-https://triller.co/,GRP,Social Networking,2022-06-11,OONI,
-https://valence.community/,GRP,Social Networking,2022-06-11,OONI,
 https://untappd.com/,GRP,Social Networking,2022-06-11,OONI,
 https://www.yubo.live/,GRP,Social Networking,2022-06-11,OONI,
 https://delta.chat/,COMT,Communication Tools,2022-06-11,OONI,
